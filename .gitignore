@@ -1,0 +1,13 @@
+/node_modules
+/build
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.settings/
+android/build/
+ios/build/
+ios/Pods/
+
+.env
+*.lock
